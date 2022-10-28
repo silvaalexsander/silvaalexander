@@ -24,6 +24,15 @@
   <img align="center" alt="Alexsander-Springboot" height="40" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Alexsander" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+
+  
+  
   
   ### Contact me:
 </div>
