@@ -27,6 +27,8 @@ Atualmente trabalho como estagiário de desenvolvimento FullStack na Avanade do 
   <img align="center" title="reactJS" alt="Alexsander-react" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" title="nodeJS" alt="Alexsander-node" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" title="C#" alt="Alexsander-csharp" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img align="center" title="javascript" alt="Alexsander-csharp" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+  <img align="center" title="typeascript" alt="Alexsander-csharp" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center" title="HTML" alt="Alexsander-html" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" title="CSS" alt="Alexsander-css" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
   <img align="center" title="nestJS" alt="Alexsander-nestjs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
