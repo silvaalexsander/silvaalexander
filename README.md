@@ -20,16 +20,16 @@ Atualmente trabalho como estagiário de desenvolvimento FullStack na Avanade do 
   
 <div align="center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alexsander-java" height="40" width="40"  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" /> 
-  <img align="center" alt="Alexsander-Springboot" height="40" width="40"   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
-  <img align="center" alt="Alexsander" height="40" width="40" <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
-  <img align="center" alt="Alexsander-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alexsander-react" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="Alexsander-node" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Alexsander-csharp" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center" alt="Alexsander-html" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-  <img align="center" alt="Alexsander-css" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-  <img align="center" alt="Alexsander-nestjs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+  <img align="center" title="java" alt="Alexsander-java" height="40" width="40"  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" /> 
+  <img align="center" title="spring-boot" alt="Alexsander-Springboot" height="40" width="40"   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
+  <img align="center" title="mysql" alt="Alexsander" height="40" width="40" <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
+  <img align="center" title="python" alt="Alexsander-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" title="reactJS" alt="Alexsander-react" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" title="nodeJS" alt="Alexsander-node" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" title="C#" alt="Alexsander-csharp" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img align="center" title="HTML" alt="Alexsander-html" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  <img align="center" title="CSS" alt="Alexsander-css" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img align="center" title="nestJS" alt="Alexsander-nestjs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
 
   
   
