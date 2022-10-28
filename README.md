@@ -1,9 +1,9 @@
-<h1 align="center">
-<div id="header" align="center">
 
-< Hello, I'm Alexsander /> .
+<div id="header">
 
-#
+<h2> Olá, eu sou Alexsander </h2> 
+
+Atualmente trabalho como estagiário de desenvolvimento FullStack na Avanade do Brasil
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" height="300">
