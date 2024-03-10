@@ -3,7 +3,14 @@
 
 <h2> Olá, eu sou Alexsander </h2> 
 
-Atualmente trabalho como estagiário de desenvolvimento FullStack na Avanade do Brasil
+Sou Desenvolvedor JR na Avanade Brasil. Atuo como FullStack no desenvolvimento de soluções web; <br>
+Minha stack envolve:<br>
+<ul>
+  <li>Angular</li>
+  <li>.NET/C#</li>
+  <li>Flutter</li>
+  <li>SQL</li>
+</ul>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" height="300">
