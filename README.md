@@ -4,7 +4,7 @@
 <h2> Olá, eu sou Alexsander </h2> 
 
 Sou Desenvolvedor JR na Avanade Brasil. Atuo como FullStack no desenvolvimento de soluções web; <br>
-Minha stack envolve:<br>
+Minha stack atual contém:<br>
 <ul>
   <li>Angular</li>
   <li>.NET/C#</li>
